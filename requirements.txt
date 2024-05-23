@@ -1,0 +1,17 @@
+bs4
+chromedriver-autoinstaller
+fake-useragent
+lxml
+requests
+undetected-chromedriver
+webdriver-manager
+beautifulsoup4
+fake-useragent
+python-dotenv
+selenium
+selenium-stealth
+webdriver-manager
+csv
+pyautogui
+PyYAML
+validate_email
